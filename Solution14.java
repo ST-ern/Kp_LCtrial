@@ -192,7 +192,7 @@ public class Solution14 {
     }
 
     /**
-     * @author stern
+     * @author Leetcode
      * @date 2020-02-21 13:00
      * @description
      *
