@@ -216,6 +216,7 @@ public class Solution14 {
      * 然后在这颗树中匹配 q 的前缀。
      * 我们从根节点遍历这颗字典树，直到因为不能满足某个条件而不能再遍历为止。
     */
+    /*
     public String longestCommonPrefix5(String q, String[] strs) {
         if (strs == null || strs.length == 0)
             return "";
@@ -277,5 +278,6 @@ public class Solution14 {
             return prefix.toString();
         }
     }
+     */
 }
 
